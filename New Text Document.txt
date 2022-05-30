@@ -1,0 +1,6 @@
+	If anything goes wrong in server we can back up the repository from any local system because these are the copy of repository 
+	U can work in offline mode by taking local copy if  we want to push the code then only need internet connection 
+
+Git hub 
+	Its website to upload your repository online 
+	Provide backup provides visual interface to your repo
